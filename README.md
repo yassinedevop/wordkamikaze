@@ -16,7 +16,7 @@ It features:
 ---
 ## Demo
 
-<video src="./demo.mp4" width="320" height="240" controls></video>
+<video src="https://vimeo.com/1132233055?share=copy&fl=sv&fe=ci" width="320" height="240" controls></video>
 
 ## ⚙️ Installation
 
