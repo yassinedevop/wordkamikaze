@@ -1,4 +1,4 @@
-# Program for word autocomplete based on dictionary with prefix-based matching
+# This is a Program for word autocomplete based on dictionary with prefix-based matching
 import pynput
 from pynput import keyboard
 import tkinter as tk
