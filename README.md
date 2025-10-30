@@ -16,7 +16,8 @@ It features:
 ---
 ## Demo
 
-<video src="https://vimeo.com/1132233055?share=copy&fl=sv&fe=ci" width="320" height="240" ></video>
+
+[Vid](https://github.com/user-attachments/assets/15a3543a-2362-4d3b-a5d6-54fe740bdde0)
 
 ## ⚙️ Installation
 
