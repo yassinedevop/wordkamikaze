@@ -16,7 +16,7 @@ It features:
 ---
 ## Demo
 
-<video controls src="demo.mp4" title="Title"></video>
+<iframe src="https://player.vimeo.com/video/1132233055?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="400" height="300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="demo"></iframe>
 
 ## ⚙️ Installation
 
@@ -25,7 +25,7 @@ It features:
    ```bash
    git clone https://github.com/yassinedevop/wordkamikaze.git
    cd wordkamikaze
-```
+   ```
 
 2. **Install dependencies:**
 
